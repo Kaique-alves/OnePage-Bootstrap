@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body{    
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.crd{
+    background: #f1f2fa !important;
+    transition: all !important;
+}
+
+.crd:hover{
+    background: #c24a4ac7 !important;
+    color: #fff !important;
+    transition: 0.5 !important;
+}
+
